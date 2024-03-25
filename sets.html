@@ -1,0 +1,204 @@
+﻿<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>სიმრავლეები</title></head>
+<body>
+<h3>"ვერავინ გამოგვაძევებს იმ სამოთხიდან, რომელიც კანტორმა შექმნა ჩვენთვის" David Hilbert</h3>
+<span>შესავალი</span> 
+შეიძლება წარმოვიდგინოთ, რომ სიმრავლე არის რაღაც ობიექტების კრებული.
+მაგალითად:სკოლის მოსწავლეთა სიმრავლე,სიბრტყის წერტილთა სიმრავლე,სიბრტყეზე მდებარე წრფეების სიმრავლე,
+კენტი ნატურალური რიცხვების სიმრავლე,რაციონალურ რიცხვთა სიმრავლე და ასე შემდეგ.<br>
+<math >
+<mrow>
+  <mi>a</mi>
+  <mo>&isin;</mo>
+  <mtext>A</mtext>
+</mrow>
+</math> ჩანაწერი ნიშნავს, რომ a არის  A სიმრავლის ელემენტი,  ან  a ეკუთვნის  A-ს.<br>
+<math ><mrow>  <mi>a</mi>  <mo>&notin;</mo>  <mtext>A</mtext></mrow></math>
+ ჩანაწერი კი ნიშნავს, რომ a არ ეკუთვნის A-ს.
+ <br><span>განსაზღვრება</span> ვიტყვით,რომ X და Y სიმრავლეები არიან ტოლი, თუ 
+ <math >
+<mrow>
+    <mo>&forall;</mo>  <mtext>z</mtext>  <mo>(</mo>
+  <mtext>z</mtext>  <mo>&isin;</mo>  <mtext>X</mtext>  <mo>&hArr;</mo>  <mtext>z</mtext>  <mo>&isin;</mo>
+  <mtext>Y</mtext>  <mo>)</mo>  
+</mrow>
+</math>
+<br>ეს ნიშნავს, რომ ორი სიმრავლე ტოლია, თუ ისინი  ერთი და იგივე ელემენტებისაგან შედგებიან.
+<br><span>სიმრავლის მოცემის ხერხები</span>
+<ol><li>სიმრავლის მოცემის ერთ-ერთი ხერხია მისი სიტყვიერი აღწერა. მაგალითად:A იყოს სიმრავლე 0-ზე მეტი და 13-ზე ნაკლები ლუწი მთელი რიცხვებისა.</li>
+<li>თუ სიმრავლის ელემენტების რაოდენობა მცირე რიცხვია, მაშინ მისი მოცემა შეიძლება პირდაპირ მისი ელემენტების ჩამოთვლით,რომლებიც 
+ერთმანეთისგან გამოყოფილია წერტილმძიმით და ჩასმულია ფიგურულ ფრჩხილებში.
+მაგალითად: ზემოთ ნახსენები A სიმრავლის მოცემა ასეც  შეიძლება: A={2;4;6;8;10;12}.
+სიმრავლის ელემენტების ჩამოთვლის დროს არ აქვს მნიშვნელობა მათ თანმიმდევრობას. მაგალითად:{1;2;3}={1;3;2}
+</li>
+<li>სიმრავლე შეიძლება მოცემული იყოს მისი ელემენტებისათვის დამახასიათებელი თვისების დასახელებით. 
+მაგალითად,იგივე  A სიმრავლის მოცემა ასეც შეიძლება:
+A=<math><mrow><mo lspace='0px' rspace='0px' fence='true'>&lcub;</mo><mi>x</mi>
+    <mo>:</mo><mi>x</mi><mo lspace='2px' rspace='2px'>&isin;</mo><mi>&integers;</mi>
+    <mo lspace='2px' rspace='2px'>&and;</mo><mn>0</mn><mo>&lt;</mo><mi>x</mi>
+    <mo>&lt;</mo><mn>13</mn><mo lspace='2px' rspace='2px'>&and;</mo>
+    <mn>2</mn><mo>|</mo><mi>x</mi><mo lspace='0px' rspace='0px' fence='true' form='postfix'>&rcub;</mo>
+  </mrow></math></ol>
+<span>განსაზღვრება</span>  დავუშვათ, მოცემული გვაქვს A და B სიმრავლეები. თუ A სიმრავლის ყველა ელემენტი 
+ B სიმრავლესაც ეკუთვნის, მაშინ ვიტყვით, რომ A არის B-ს ქვესიმრავლე ან A შედის B-ში და ჩავწერთ ასე: 
+ <math><mrow><mtext>A</mtext><mo>&sub;</mo><mtext>B</mtext></mrow></math>.
+ <br>თუ A არ შედის B-ში, მაშინ დავწერთ, რომ <math >
+<mrow>
+  <mtext>A</mtext>
+  <mo>&nsub;</mo>
+  <mtext>B</mtext>
+</mrow>
+</math>
+<br>სხვა სიტყვებით რომ ვთქვათ, 
+<math ><mrow> <mtext>A</mtext> <mo>&sub;</mo> <mtext>B</mtext></mrow></math> 
+ნიშნავს, რომ 
+ <math >
+<mrow>
+  <mo>&forall;</mo>  <mtext>z</mtext>  <mo>(</mo>  <mtext>z</mtext>  <mo>&isin;</mo>
+  <mtext>A</mtext>  <mo>&rArr;</mo>  <mtext>z</mtext>  <mo>&isin;</mo>  <mtext>B</mtext>  <mo>)</mo>
+</mrow>
+</math>
+,<br>ხოლო <math >
+<mrow>
+  <mtext>A</mtext>
+  <mo>&nsub;</mo>
+  <mtext>B</mtext>
+</mrow>
+</math>
+ ნიშნავს, რომ <math>
+  <mrow>
+    <mo rspace='3px'>&exist;</mo>
+    <mi>x</mi>
+    <mo stretchy='false'>(</mo>
+    <mi>x</mi>
+    <mo lspace='2px' rspace='2px'>&isin;</mo>
+    <mi>A</mi>
+    <mo lspace='2px' rspace='2px'>&and;</mo>
+    <mi>x</mi>
+    <mo lspace='2px' rspace='2px'>&notin;</mo>
+    <mi>B</mi>
+    <mo stretchy='false'>)</mo>
+  </mrow>
+</math>
+<br>ადვილი საჩვენებელია, რომ A და B სიმრავლეების ტოლობის დასამტკიცებლად საკმარისია დავამტკიცოთ, რომ <math ><mrow> <mtext>A</mtext> <mo>&sub;</mo> <mtext>B</mtext></mrow></math>
+და <math ><mrow> <mtext>B</mtext> <mo>&sub;</mo> <mtext>A</mtext></mrow></math>. 
+ <br><span>თეორემა</span>ნებისმიერი  A სიმრავლე არის თავისთავის ქვესიმრავლე. ესე იგი <math ><mrow> <mtext>A</mtext> <mo>&sub;</mo> <mtext>A</mtext></mrow></math> <br><span>თეორემა</span>თუ A სიმრავლე არ შეიცავს არცერთ ელემენტს, მაშინ ნებისმიერი B სიმრავლისათვის
+ <math ><mrow> <mtext>A</mtext> <mo>&sub;</mo> <mtext>B</mtext></mrow></math><br>დამტკიცება:თუ A არ შეიცავს არცერთ ელემენტს, მაშინ ნებისმიერი x-სთვის 
+ <math ><mrow><mtext>x</mtext><mo>&isin;</mo><mtext>A</mtext></mrow></math> მცდარი გამონათქვამია. <br>მცდარი გამონათქვამიდან კი ყველაფერი გამომდინარეობს, ამიტომ, ნებისმიერი B სიმრავლისათვის ჭეშმარიტი იქნება 
+<math > <mrow><mo rspace='3px'>&forall;</mo><mi>x</mi><mo stretchy='false'>(</mo><mi>x</mi> <mo lspace='2px' rspace='2px'>&isin;</mo>
+    <mi>A</mi><mo lspace='3px' rspace='3px'>&rArr;</mo> <mi>x</mi><mo lspace='2px' rspace='2px'>&isin;</mo> <mi>B</mi>
+    <mo stretchy='false'>)</mo> </mrow></math>, რაც იმას ნიშნავს, რომ <math><mrow><mtext>A</mtext><mo>&sub;</mo><mtext>B</mtext></mrow></math>.
+<br>ახლა დავამტკიცოთ ასეთი <br>თეორემა:თუ A და B სიმრავლეები ისეთია, რომ მათგან არცერთი არ შეიცავს რაიმე ელემენტს, მაშინ A=B.
+<p>დამტკიცება:</p>მართლაც, ახლახანს დამტკიცებული თეორემის თანახმად გვექნება, რომ <math display = 'block'>
+  <mrow>
+    <mi>A</mi>
+    <mo lspace='2px' rspace='2px'>&sub;</mo>
+    <mi>B</mi>
+    <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+    <mi>და</mi>
+    <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+    <mi>B</mi>
+    <mo lspace='2px' rspace='2px'>&sub;</mo>
+    <mi>A</mi>
+  </mrow>
+</math>
+რაც ნიშნავს იმას, რომ A=B.	
+<br>
+ სიმრავლეთა თეორიის ერთ-ერთი აქსიომის თანახმად, არსებობს ისეთი  სიმრავლე, რომელიც არ შეიცავს არცერთ ელემენტს.
+ჩვენს მიერ ახლახანს დამტკიცებული თეორემის  თანახმად კი ასეთი სიმრავლე ერთადერთია, მას ეწოდება ცარიელი სიმრავლე და აღინიშნება ასე:
+  <math ><mrow>  <mi>&empty;</mi></mrow></math>.
+  <br> 
+როგორც ვნახეთ,<math >
+  <mrow>
+    <mo lspace='2px' rspace='2px'>&emptyv;</mo>
+    <mo lspace='2px' rspace='2px'>&sub;</mo>
+    <mi>A</mi>
+    <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+    <mi>და</mi>
+    <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+    <mi>A</mi>
+    <mo lspace='2px' rspace='2px'>&sub;</mo>
+    <mi>A</mi>
+  </mrow>
+</math>
+მათ ეწოდებათ A-ს არასაკუთრივი ქვესიმრავლეები, ხოლო მათგან განსხვავებულ ნებისმიერ ქვესიმრავლეს ეწოდება საკუთრივი ქვესიმრავლე.
+სიმრავლეთა თეორიის სხვა აქსიომებით განისაზღვრება სიმრავლეთა გაერთიანება,თანაკვეთა,წყვილი,დალაგებული წყვილი,სიმრავლის ქვესიმრავლეთა სიმრავლე, სიმრავლეთა დეკარტული ნამრავლი და სხვა სიმრავლურ-თეორიული ტერმინები.ჩვენც განვსაზღვრავთ მათ, ოღონდ აქსიომების ხსენების გარეშე.
+<br>  X და Y სიმრავლეების გაერთიანება:<math display="block">
+<mrow><mtext>X</mtext><mo>&cup;</mo>
+  <mtext>Y</mtext><mo>=</mo><mo>{</mo><mtext>z</mtext><mo>|</mo><mtext>z</mtext> <mo>&isin;</mo>
+  <mtext>X</mtext>  <mo>&or;</mo><mtext>z</mtext><mo>&isin;</mo><mtext>Y</mtext><mo>}</mo></mrow></math>
+  <br>X და Y სიმრავლეების თანაკვეთა:<math display="block">
+<mrow><mtext>X</mtext><mo>&cap;</mo>
+  <mtext>Y</mtext><mo>=</mo><mo>{</mo><mtext>z</mtext><mo>|</mo><mtext>z</mtext> <mo>&isin;</mo>
+  <mtext>X</mtext>  <mo>&and;</mo><mtext>z</mtext><mo>&isin;</mo><mtext>Y</mtext><mo>}</mo></mrow></math>
+  X სიმრავლის ქვესიმრავლეთა სიმრავლე:<math display="block">
+<mrow> <mtext>P</mtext><mo>(</mo><mtext>X</mtext><mo>)</mo><mo>=</mo><mo>{</mo><mtext>Y</mtext>
+  <mo>|</mo><mtext>Y</mtext><mo>&sub;</mo><mtext>X</mtext> <mo>}</mo></mrow></math>
+  <br>X და Y სიმრავლეების დეკარტული ნამრავლი:<math display="block">
+<mrow><mtext>X</mtext><mo>&times;</mo><mtext>Y</mtext><mo>=</mo><mo>{</mo><mo>(</mo><mi>x</mi>
+<mtext>;</mtext><mi>y</mi><mo>)</mo><mo>|</mo><mi>x</mi><mo>&isin;</mo><mtext>X</mtext><mo>&and;</mo>
+  <mi>y</mi><mo>&isin;</mo><mtext>Y</mtext><mo>}</mo></mrow></math>
+  <p> თეორემა</p>
+  <math display="block">
+<mrow>
+  <mi>&empty;</mi>
+  <mo>&sub;</mo>
+  <mtext>A</mtext>
+</mrow>
+</math>
+<math display="block">
+<mrow>
+  <mtext>A</mtext>
+  <mo>&sub;</mo>
+  <mtext>A</mtext>
+</mrow>
+</math>
+<math display="block">
+<mrow>
+  <mtext>A</mtext>
+  <mo>&sub;</mo>
+  <mtext>A</mtext>
+  <mo>&cup;</mo>
+  <mtext>B</mtext>
+</mrow>
+</math>
+<math display="block">
+<mrow>
+  <mtext>A</mtext>
+  <mo>&cap;</mo>
+  <mtext>B</mtext>
+  <mo>&sub;</mo>
+  <mtext>A</mtext>
+</mrow>
+</math>
+<math display="block">
+<mrow>
+  <mtext>A</mtext>
+  <mo>&cup;</mo>
+  <mtext>B</mtext>
+  <mo>=</mo>
+  <mtext>B</mtext>
+  <mo>&cup;</mo>
+  <mtext>A</mtext>
+</mrow>
+</math>
+<math display="block">
+<mrow>
+  <mtext>A</mtext>
+  <mo>&cap;</mo>
+  <mtext>B</mtext>
+  <mo>=</mo>
+  <mtext>B</mtext>
+  <mo>&cap;</mo>
+  <mtext>A</mtext>
+</mrow>
+</math>
+
+
+ 
+
+</body>
+</html>

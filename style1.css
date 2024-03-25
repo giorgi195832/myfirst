@@ -1,0 +1,7 @@
+div {
+    counter-reset: myitemcounter;
+}
+h3::before {
+    counter-increment: myitemcounter;
+    content: counters(myitemcounter, ".")" ";
+}

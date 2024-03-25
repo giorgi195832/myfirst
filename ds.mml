@@ -1,0 +1,748 @@
+<math display = 'block'>
+  <mtable columnalign='left' linebreak='true'>
+    <mtr>
+      <mtd>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mi mathvariant='italic' fontfamily='Times New Roman'>4</mi>
+        <mo>=</mo>
+        <msqrt>
+          <mrow>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mn>4</mn>
+          </mrow>
+        </msqrt>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</mtext>
+        <mo stretchy='false'>(</mo>
+        <mo>&lowast;</mo>
+        <mo stretchy='false'>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>???????</mi>
+        <mo>:</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mo stretchy='false'>[</mo>
+        <mo>&minus;</mo>
+        <mn>4</mn>
+        <mo>;</mo>
+        <mo>&minus;</mo>
+        <mn>2</mn>
+        <mo stretchy='false'>]</mo>
+        <mo lspace='2px' rspace='2px'>&cup;</mo>
+        <mo stretchy='false'>[</mo>
+        <mn>2</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>??????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????????</mi>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mo>:</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msup>
+          <mi>x</mi>
+          <mn>4</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mn>8</mn>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>12</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</mtext>
+        <mo stretchy='false'>(</mo>
+        <mo>&lowast;</mo>
+        <mo>&lowast;</mo>
+        <mo stretchy='false'>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>??????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>?????????</mi>
+        <mo>:</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>A</mi>
+        <mo>=</mo>
+        <mo stretchy='false'>[</mo>
+        <mn>0</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</mtext>
+        <mi>B</mi>
+        <mo>=</mo>
+        <mo stretchy='false'>[</mo>
+        <mn>2</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>f</mi>
+        <mo>:</mo>
+        <mi>A</mi>
+        <mo lspace='3px' rspace='3px'>&rarr;</mo>
+        <mi>B</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;</mtext>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;</mtext>
+        <mi>g</mi>
+        <mo>:</mo>
+        <mi>B</mi>
+        <mo lspace='3px' rspace='3px'>&rarr;</mo>
+        <mi>A</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;</mtext>
+        <mi>?????????</mi>
+        <mo>,</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>?????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>f</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <msqrt>
+          <mrow>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mn>4</mn>
+          </mrow>
+        </msqrt>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;&nbsp;</mtext>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;&nbsp;</mtext>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mn>4</mn>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo rspace='3px'>&forall;</mo>
+        <mi>x</mi>
+        <mo lspace='2px' rspace='2px'>&isin;</mo>
+        <mi>A</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;&nbsp;</mtext>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>f</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <msup>
+          <msqrt>
+            <mrow>
+              <mo stretchy='false'>(</mo>
+              <mi>x</mi>
+              <mo>+</mo>
+              <mn>4</mn>
+              <mo stretchy='false'>)</mo>
+            </mrow>
+          </msqrt>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mi mathvariant='italic' fontfamily='Times New Roman'>4</mi>
+        <mo>=</mo>
+        <mo>|</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi mathvariant='italic' fontfamily='Times New Roman'>4</mi>
+        <mo>|</mo>
+        <mo>&minus;</mo>
+        <mi mathvariant='italic' fontfamily='Times New Roman'>4</mi>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>4</mn>
+        <mo>&minus;</mo>
+        <mn>4</mn>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mo rspace='3px'>&forall;</mo>
+        <mi>x</mi>
+        <mo lspace='2px' rspace='2px'>&isin;</mo>
+        <mi>B</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>f</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <msqrt>
+          <mrow>
+            <mo stretchy='false'>(</mo>
+            <msup>
+              <mi>x</mi>
+              <mn>2</mn>
+            </msup>
+            <mo>&minus;</mo>
+            <mn>4</mn>
+            <mo stretchy='false'>)</mo>
+            <mo>+</mo>
+            <mn>4</mn>
+          </mrow>
+        </msqrt>
+        <mo>=</mo>
+        <msqrt>
+          <msup>
+            <mi>x</mi>
+            <mn>2</mn>
+          </msup>
+        </msqrt>
+        <mo>=</mo>
+        <mo>|</mo>
+        <mi>x</mi>
+        <mo>|</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>f</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;</mtext>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>g</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;</mtext>
+        <mi>?????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>???????????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????????</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>x</mi>
+        <mo lspace='2px' rspace='2px'>&isin;</mo>
+        <mo stretchy='false'>[</mo>
+        <mn>2</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mo stretchy='false'>(</mo>
+        <mo>&lowast;</mo>
+        <mo stretchy='false'>)</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????</mi>
+        <mo>:</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>f</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>????????</mi>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>f</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>???</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???</mi>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????????</mi>
+        <mo>:</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>.</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>&lt;</mo>
+        <mi>x</mi>
+        <mo lspace='3px' rspace='3px'>&rArr;</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>&lt;</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>&lt;</mo>
+        <mi>x</mi>
+        <mo>.</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;</mtext>
+        <mo stretchy='false'>(</mo>
+        <mn>1</mn>
+        <mo stretchy='false'>)</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>&gt;</mo>
+        <mi>x</mi>
+        <mo lspace='3px' rspace='3px'>&rArr;</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>&gt;</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>&gt;</mo>
+        <mi>x</mi>
+        <mo>.</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp;&nbsp;</mtext>
+        <mo stretchy='false'>(</mo>
+        <mn>2</mn>
+        <mo stretchy='false'>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo lspace='3px' rspace='3px'>&rArr;</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>.</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mo stretchy='false'>(</mo>
+        <mn>3</mn>
+        <mo stretchy='false'>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>??</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>g</mi>
+        <mo>&minus;</mo>
+        <mi>?</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mo stretchy='false'>[</mo>
+        <mn>2</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+        <mo>.</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo stretchy='false'>(</mo>
+        <mn>1</mn>
+        <mo stretchy='false'>)</mo>
+        <mo>,</mo>
+        <mo stretchy='false'>(</mo>
+        <mn>2</mn>
+        <mo stretchy='false'>)</mo>
+        <mi>??</mi>
+        <mo stretchy='false'>(</mo>
+        <mn>3</mn>
+        <mo stretchy='false'>)</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>?????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mo stretchy='false'>[</mo>
+        <mn>2</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>g</mi>
+        <mo stretchy='false'>(</mo>
+        <mi>x</mi>
+        <mo stretchy='false'>)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mi>x</mi>
+        <mo>&minus;</mo>
+        <mn>4</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mo stretchy='false'>[</mo>
+        <mn>2</mn>
+        <mo>;</mo>
+        <mo>+</mo>
+        <mi>&infin;</mi>
+        <mo stretchy='false'>]</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>??????????</mi>
+        <mo>:</mo>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <msqrt>
+              <mn>17</mn>
+            </msqrt>
+          </mrow>
+          <mn>2</mn>
+        </mfrac>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <msup>
+          <mi>x</mi>
+          <mn>4</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mn>8</mn>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>12</mn>
+        <mo>=</mo>
+        <mo stretchy='false'>(</mo>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>&minus;</mo>
+        <mi>x</mi>
+        <mo>&minus;</mo>
+        <mn>4</mn>
+        <mo stretchy='false'>)</mo>
+        <mo stretchy='false'>(</mo>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <mi>x</mi>
+        <mo>&minus;</mo>
+        <mn>3</mn>
+        <mo stretchy='false'>)</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>???????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>?????????</mi>
+        <mo>:</mo>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mtext fontfamily='Times New Roman'>&nbsp;&nbsp;</mtext>
+        <msup>
+          <mi>x</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <mi>x</mi>
+        <mo>&minus;</mo>
+        <mn>3</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mtext fontfamily='Times New Roman'>&nbsp; &nbsp; &nbsp;</mtext>
+        <mo stretchy='false'>[</mo>
+        <mo>&minus;</mo>
+        <mn>4</mn>
+        <mo>;</mo>
+        <mo>&minus;</mo>
+        <mn>2</mn>
+        <mo stretchy='false'>]</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mi>????????</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>????????</mi>
+        <mo>,</mo>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>???</mi>
+        <mtext fontfamily='Times New Roman'>&nbsp;</mtext>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mfrac>
+          <mrow>
+            <mo>&minus;</mo>
+            <mn>1</mn>
+            <mo>&minus;</mo>
+            <msqrt>
+              <mn>13</mn>
+            </msqrt>
+          </mrow>
+          <mn>2</mn>
+        </mfrac>
+      </mtd>
+    </mtr>
+  </mtable>
+</math>

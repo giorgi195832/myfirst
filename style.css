@@ -1,0 +1,19 @@
+﻿body{background-color:#8fbc8b;}
+body{counter-reset:s1;}
+h4{counter-reset:s2;margin:0;}
+ul{counter-reset:s3;}
+ul{list-style-type:none;margin:0;padding:0;}
+h4::before {counter-increment:s1;content:"ნაწილი" counter(s1)":";}
+li::before {counter-increment: s2;content:counter(s1)"."counter(s2)".";}
+span::before{counter-increment:s3;content:counter(s1)"."counter(s2)"."counter(s3)".";}
+span{font-size:15px;font-weight:bold;}
+.d1{position:relative;}
+.d2{position:absolute;left:400px;width:940px;background-color:#66abb3;}
+.d3{position:absolute;width:400px;background-color:#8fbc8b;}
+table, th, td {border:1px solid black;  border-collapse: collapse;}
+p{font-weight:bold;margin:0;}
+iframe{overflow:hidden;}
+
+
+.
+.
